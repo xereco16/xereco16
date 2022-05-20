@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**xereco16/xereco16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Ola!! Eu sou o Henrique Pratas 😃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estou aprendendo
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_henriquep_/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-pratas-14364623b/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xereco16&show_icons=true&theme=radical&title_color=blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xereco16)](https://github.com/anuraghazra/github-readme-stats)
