@@ -11,5 +11,6 @@
 ### Estou aprendendo
 <div style="display: inline_block"><br/>
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />    
-    <img align="center" alt="php" height="57px" width="75px" margin="2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />         
+    <img align="center" alt="php" height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img align="center" alt="laravel" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 </div>
